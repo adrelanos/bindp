@@ -55,7 +55,7 @@
 #include <errno.h>
 #include <arpa/inet.h>
 
-int debug_enabled = 1;
+int debug_enabled = 0;
 
 int (*real_bind)(int, const struct sockaddr *, socklen_t);
 int (*real_connect)(int, const struct sockaddr *, socklen_t);
