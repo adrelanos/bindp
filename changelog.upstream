@@ -1,3 +1,21 @@
+commit c8f99a6942e0f8bda4b09f25dcfcebf56b3fb42d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jul 9 12:27:20 2017 +0000
+
+    fix, re-add changes by s.sh
+
+commit 74250f475b49d30c5105cf361c741e355b327daa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jul 9 12:22:57 2017 +0000
+
+    remote no longer required .gitignore
+
+commit 9852bdae3b744d0fbc16d4e63f6dd7f48b2808e8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jul 9 12:11:38 2017 +0000
+
+    bumped changelog version
+
 commit c9399cc3a378467b23b2c31775e76f5ea303515e
 Merge: 160af63 fc129ae
 Author: Patrick Schleizer <adrelanos@riseup.net>
