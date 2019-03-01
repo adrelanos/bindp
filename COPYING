@@ -20,7 +20,7 @@ License: GPL-3+
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-Files: bindp.c Makefile_orig
+Files: usr/lib/bindp.c Makefile_orig
 Copyright: Copyright (C) 2014 nieyong <nieyong@staff.weibo.com>
 License: GPL-2.1+
  This program is free software: you can redistribute it and/or modify
