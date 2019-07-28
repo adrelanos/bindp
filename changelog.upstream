@@ -1,3 +1,15 @@
+commit 9806541b73646a0cb594dd5c479744d91a39dc6a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jul 28 19:31:10 2019 +0000
+
+    deprecate debian/gain-root-command
+
+commit 300ccf1c8096c29904d1a849aa5b071d97abe6c9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jun 8 10:17:55 2019 +0000
+
+    bumped changelog version
+
 commit 026a6813a06fe2fa473aacbc6bb5bf8bdbd97210
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Jun 8 00:05:31 2019 -0400
