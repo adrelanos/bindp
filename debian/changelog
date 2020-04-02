@@ -1,3 +1,9 @@
+bindp (3:2.2-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Thu, 02 Apr 2020 11:39:49 +0000
+
 bindp (3:2.1-1) unstable; urgency=medium
 
   * New upstream version (local package).
